@@ -1,1 +1,1 @@
-cm2network/counter-strike
+flannel/flannel-cni-plugin:v1.2.0
