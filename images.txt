@@ -1,1 +1,1 @@
-kagurazakanyaa/palworld
+ollama/ollama
