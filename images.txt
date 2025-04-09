@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+ghcr.io/open-webui/open-webui:ollama
